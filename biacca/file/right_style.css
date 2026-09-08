@@ -1,0 +1,33 @@
+  .rightB {
+  width: 230px;
+  padding: 0;
+  border: 1px solid #888;
+  margin-bottom :20px;
+}
+  .rightB img{
+  border: 0;
+  max-width: 230px;
+}
+  .rightIn {
+  width: 200px;
+  padding-bottom: 20px;
+  border: 0;
+  margin: 15px;  
+}
+  .rightIn img{
+  border: 0;
+  max-width: 198px;
+  margin-bottom :15px;
+}
+  .contRight {
+}
+  .rightNoB {
+  width: 230px;
+  padding: 0;
+  border: 0;
+  margin-bottom :20px;
+}
+  .rightNoB img{
+  border: 0;
+  max-width: 230px;
+}
